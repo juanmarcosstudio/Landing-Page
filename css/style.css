@@ -30,7 +30,6 @@
     background-color: #D6E9FE;
     display: flex;
     justify-content: center;
-    align-items: center;
   }
   
   .header {
@@ -97,7 +96,7 @@
   flex: 1;
 }
 
-.footer-three {
+.footer-two {
   flex: 2;
 }
 
